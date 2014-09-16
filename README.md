@@ -18,5 +18,3 @@ var product = EntityByExample<Product>.GetEntityByEntityId(yourDatabaseContextNa
 Please let me know if you have questions or suggestions.
 
 Happy coding and enjoy!
-
-You can see my blog http://josephgunawan.blogspot.com/2014/09/create-generic-search-query-to-query.html.
